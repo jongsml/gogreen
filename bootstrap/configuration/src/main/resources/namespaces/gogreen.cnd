@@ -20,3 +20,6 @@
 [gogreen:newsdocument] > gogreen:basedocument, hippostd:relaxed, hippotranslation:translated
   orderable
 
+[gogreen:productdocument] > gogreen:basedocument, hippostd:relaxed, hippotranslation:translated
+  orderable
+
